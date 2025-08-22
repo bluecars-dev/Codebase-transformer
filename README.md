@@ -1,7 +1,7 @@
 # Codebase-transformer
-An AI that transforms codebases from target language to target language using natural languge constrinats.
+An AI program that transforms codebases from target language to target language using natural languge constrinats.
 
-the demo shows fortran converted into c++
+the demo shows a fortran calculator converted into c++
 
 
 
